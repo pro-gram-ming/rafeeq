@@ -1,0 +1,11 @@
+Types of Software Architecture Patterns
+https://www.geeksforgeeks.org/types-of-software-architecture-patterns/
+
+Top 6 API Architecture Styles for Modern Software Development
+https://zikazaki.medium.com/top-6-api-architecture-styles-for-modern-software-development-d35752c7f9aa
+
+Software Architectural Patterns in System Design
+https://www.geeksforgeeks.org/design-patterns-architecture/
+
+Difference between System Design and System Architecture
+https://www.geeksforgeeks.org/difference-between-system-design-and-system-architecture/
