@@ -9,3 +9,30 @@ https://www.geeksforgeeks.org/design-patterns-architecture/
 
 Difference between System Design and System Architecture
 https://www.geeksforgeeks.org/difference-between-system-design-and-system-architecture/
+
+API Gateway Patterns in Microservices
+https://www.geeksforgeeks.org/api-gateway-patterns-in-microservices/
+
+The Essential Guide to Microservices Design Patterns
+https://www.tenupsoft.com/blog/the-essential-guide-to-microservices-design-patterns.html
+
+Top 6 ORMs for Modern Node.js App Development
+https://amplication.com/blog/top-6-orms-for-modern-nodejs-app-development
+
+Top 8 Open-Source CRUD Projects with the Most GitHub Stars
+https://medium.com/@nocobase/top-8-open-source-crud-projects-with-the-most-github-stars-04a64a95dd3f
+
+The CRUD Foundation of Apps
+https://dev.to/m__mdy__m/the-crud-foundation-of-apps-4d0
+
+Top Open Source Reporting Tools
+https://dev.to/maddevs/top-open-source-reporting-tools-ibj
+
+Next-generation Node.js and TypeScript ORM
+https://www.prisma.io/orm
+
+ACID Properties in DBMS
+https://www.geeksforgeeks.org/acid-properties-in-dbms/
+
+Refactoring.Guru
+https://refactoring.guru/
