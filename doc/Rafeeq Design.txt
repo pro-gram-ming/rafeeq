@@ -1,1 +1,68 @@
 Component esg
+
+
+================
+Rafeeq Functions
+================
+*Recognize people and greet them.
+*Talk to people.
+*Move from point to point in a defined area.
+*Explore things in unknown obstacles (but within defined area).
+*Help People who are new in defined areas and guide to their target.
+*Carry some item(s) from person to person.
+*Convoy audio messages from person to person.
+*Convoy video messages from person to person (if Rafeeq has a display unit).
+*Move to charging station automatically for charging.
+*Go to what we can call sleep mode in the night.
+*Create a task queue for Rafeeq for executing tasks. This should be done with task priority definition.
+
+
+=========================
+Microservices Definitions
+=========================
+/*** Rafeeq's Brain ***/
+This is responsible for making decision for tasks and control Rafeeq. It has a priority for executing tasks and can do some simultaneous tasks if possible.
+/**/
+
+/*** Vision Analyzer ***/
+This is responsible for analyzing images and extracting information and pass it to Rafeeq's brain.
+/**/
+
+/*** Audio Analyzer ***/
+This is responsible for analyzing audio and extracting information and pass it to Rafeeq's brain.
+/**/
+
+/*** Speech Analyzer ***/
+This is responsible for generating audio from text.
+/**/
+
+/*** Steerer ***/
+This is responsible for steering Rafeeq using the camera.
+/**/
+
+/*** Reporter ***/
+This is responsible for generating diverse reports that is for different users.
+/**/
+
+/*** Logger ***/
+This is a logger system for handling logger.
+/**/
+
+/*** Navigator ***/
+This is used for navigating Rafeeq from point to point. 
+/**/
+
+/*** Obstacle Analyzer ***/
+This is used for detecting obstacles infront of Rafeeq.
+/**/
+
+=============================
+Rafeeq Development Milestones
+=============================
+/*** Milestone #1  ***/
+*Web Interface: 
+/**/
+
+/*** Milestone #2  ***/
+*Mobile App: for 
+/**/
